@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_winmain.obj) : error LNK2001: symbole externe non résolu WinMain
+C:\Users\ju\source\repos\SimpleDll\x64\Release\SimpleDll.exe : fatal error LNK1120: 1 externes non résolus
